@@ -18,6 +18,7 @@ Beyond simple detection, the application integrates **Google's Gemini API** to p
 
 ---
 
+![Image](https://github.com/user-attachments/assets/ec3777dc-6b2a-4c71-9310-4d086224239b)
 
 ## 🛠️ Hardware Setup
 
@@ -29,8 +30,11 @@ The physical system is designed to be a "plug-and-play" accessory for existing m
 * **Mounting:** Custom 3D-printed parts designed in CATIA.
     * *Camera Holder:* Fits standard microscope eyepieces.
     * *Display Holder:* Mounts the screen to the microscope arm.
+    
+<img width="1110" height="688" alt="Image" src="https://github.com/user-attachments/assets/fa9c7985-c2e8-461c-ac2c-54928452bbd5" />
 
-![Hardware Pipeline](path/to/pipeline_specs_image.png)
+![Image](https://github.com/user-attachments/assets/458d5b53-d2cd-4ae5-a48b-8e12029c9f32)
+
 ---
 
 ## 💻 Software Architecture
@@ -51,13 +55,3 @@ The software is written in Python and follows this processing pipeline:
 
 ---
 
-## 🚀 Installation & Usage
-
-### Prerequisites
-* Python 3.9+
-* Raspberry Pi OS (Bookworm) or Linux environment (if using Pi Camera features)
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/microscope-ai-assistant.git](https://github.com/your-username/microscope-ai-assistant.git)
-cd microscope-ai-assistant
