@@ -2,7 +2,7 @@
 
 **Real-time classification, counting, and biological analysis of marine organisms using Raspberry Pi/Jetson, YOLOv8, and Kivy.**
 
-## 📋 Project Overview
+## Project Overview
 
 This project converts a standard optical microscope into an intelligent research tool. Using a 3D-printed mount system and an embedded AI computer (Raspberry Pi 5 or Jetson), the system performs **real-time detection and counting** of marine organisms (like diatoms and plankton) directly from the microscope's eyepiece feed.
 
@@ -20,7 +20,7 @@ Beyond simple detection, the application integrates **Google's Gemini API** to p
 
 ![Image](https://github.com/user-attachments/assets/ec3777dc-6b2a-4c71-9310-4d086224239b)
 
-## 🛠️ Hardware Setup
+## Hardware Setup
 
 The physical system is designed to be a "plug-and-play" accessory for existing microscopes.
 
@@ -37,7 +37,7 @@ The physical system is designed to be a "plug-and-play" accessory for existing m
 
 ---
 
-## 💻 Software Architecture
+## Software Architecture
 
 The software is written in Python and follows this processing pipeline:
 
